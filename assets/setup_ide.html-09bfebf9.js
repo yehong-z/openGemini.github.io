@@ -1,0 +1,1 @@
+import{_ as t,X as s,Y as a,Z as e,a1 as r}from"./framework-a4aa538b.js";const o={},c=e("h1",{id:"setup-your-ide",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#setup-your-ide","aria-hidden":"true"},"#"),r(" Setup your IDE")],-1),_=[c];function d(n,i){return s(),a("div",null,_)}const h=t(o,[["render",d],["__file","setup_ide.html.vue"]]);export{h as default};
